@@ -11,14 +11,14 @@ print("Hola, !"+ nombre +"! Tienes "+ str(edad)+ "años")
 
 #Ejercicio3
 print("Ejercicio 3")
-Celsius = input("Ingrese la temperatura en grados celsius")
+Celsius = float(input("Ingrese la temperatura en grados celsius"))
 formula = Celsius*9/5+32 
 print("La temperatura en Fahrenheit es de", formula)
 
 #Ejercicio4
 print("Ejercicio 4")
-numero1 = input("Ingrese un numero")
-numero2 = ("Ingrese otro numero")
+numero1 = int(input("Ingrese un numero"))
+numero2 = int(input("Ingrese otro numero"))
 suma = numero1+numero2
 resta = numero1-numero2
 multiplicacion = numero1*numero2 
