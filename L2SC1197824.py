@@ -10,7 +10,7 @@ def contar_pares_impares(numero):
             impares += 1
     return pares, impares
 numero = int(input(" Ingrese un numero entero positivo:"))
-if numero <= 0
+if numero <= 0:
     print("Ingresar un numero entero positivo.")
 else: 
     cantidad_pares, cantidad_impares = contar_pares_impares(numero)
@@ -35,7 +35,7 @@ numero = int(input("Ingrese un numero para mostrar su tabla de multplicar:"))
 print(f"Tabla de multiplicar del {numero}:")
 for i in range(1, 11):
     resultado  = numero * i 
-    print(f"{numero}"x {i} = {resultado})
+    print(f"{numero}x {i} = {resultado}")
 
 #parte 4
 for num in range(1, 51):
