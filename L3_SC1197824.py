@@ -19,31 +19,31 @@ if __name__ == "__main__":
     main()
 
 #Ejercicio 2
- import math
+import math
 
 # Función para obtener el perímetro de la circunferencia
 def obtener_perimetro(radio):
     
    
-return 2 * math.pi * radio
+    return 2 * math.pi * radio
 
 # Función para obtener el área de la circunferencia
 def obtener_area(radio):
     
     ret
-return math.pi * radio ** 2
+    return math.pi * radio ** 2
 
 # Función para obtener el volumen de la esfera
 def obtener_volumen(radio):
     
    
-return (4/3) * math.pi * radio ** 3
+    return (4/3) * math.pi * radio ** 3
 
 def main():
-    radio = 
+    radio = ##?
     radio = f
 
-    ra
+    ra #?
 float(input("Ingrese el radio del círculo: "))
     
     
@@ -53,7 +53,7 @@ float(input("Ingrese el radio del círculo: "))
     perimetro = obtener_perimetro(radio)
     
     perimetro = obtener_perimetro(radio)
-    pr
+    pr #?
 
     perimetro = obtener_perimetro(radio
 
@@ -63,7 +63,7 @@ float(input("Ingrese el radio del círculo: "))
 
     perimetro = o
 
-    perimet
+    perimet #?
 
     
 print("El perímetro de la circunferencia es:", perimetro)
@@ -75,7 +75,7 @@ print("El perímetro de la circunferencia es:", perimetro)
     area = obtener_area(radio)
     
     area = obtener_area(radio)
-    pri
+    priv#?
 
     area = obtener_area(radio)
 
@@ -83,7 +83,7 @@ print("El perímetro de la circunferencia es:", perimetro)
 
     area = obten
 
-    area
+    area #?
 
  
 print("El área de la circunferencia es:", area)
@@ -100,7 +100,7 @@ print("El área de la circunferencia es:", area)
 
     volumen = obtener_vol
 
-    volumen = obte
+    volumen = obte #?
 
     volumen 
 
